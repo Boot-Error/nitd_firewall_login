@@ -1,6 +1,6 @@
 # Automatic Firewall Login
 
-A bash script to login NITD's firewall for internet access
+A bash script to login NITD's firewall for internet access.
 
 ## Install
 
@@ -17,6 +17,6 @@ To login using `USERNAME` and `PASSWD`
 
 To logout
 
-```bas
+```bash
 ./firewall_login.sh logout
 ```
